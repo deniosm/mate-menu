@@ -1,0 +1,6 @@
+mate-menu (22.04.3+denios3) denios; urgency=medium
+
+  * New upstream release.
+  * Bump to new version.
+
+ -- Denis Maslo <denios-linux@proton.me>  Fri, 10 Mar 2023 08:00:16 +0100

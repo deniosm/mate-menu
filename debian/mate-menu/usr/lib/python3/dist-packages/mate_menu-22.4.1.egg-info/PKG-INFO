@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mate-menu
+Version: 22.4.1
+Summary: An advanced menu for MATE. Supports filtering, favorites, autosession, and many other features.
+Home-page: https://github.com/deniosm/mate-menu/
+Author: Martin Wimpress
+License: GPLv2+
+License-File: COPYING

@@ -1,0 +1,17 @@
+
+# Automatically added by dh_python3
+if command -v py3compile >/dev/null 2>&1; then
+	py3compile -p mate-menu 
+fi
+if command -v pypy3compile >/dev/null 2>&1; then
+	pypy3compile -p mate-menu  || true
+fi
+
+if command -v py3compile >/dev/null 2>&1; then
+	py3compile -p mate-menu /usr/lib/mate-menu
+fi
+if command -v pypy3compile >/dev/null 2>&1; then
+	pypy3compile -p mate-menu /usr/lib/mate-menu || true
+fi
+
+# End automatically added section
